@@ -1,0 +1,148 @@
+body{
+    margin: 20px;
+    background-color: #212529;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color:white;
+}
+.imgn{
+    float: left;
+}
+
+a{
+    margin-right: 20px ;
+    padding: 20;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+a:hover{
+    margin-right: 20px ;
+    color: #FFB742;
+    font-size: 18px;
+    text-decoration: none;
+}
+input{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 26px;
+
+    position: absolute;
+    width: 121px;
+    height: 54px;
+    left: 1271px;
+    top: 23.06px;
+
+    background: #FFB742;
+    border: 2px solid #FFB742;
+    border-radius: 50px;
+}
+span{
+    color: #FFB742;
+}
+
+h2{
+    font-size: 32px;
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+}
+p{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    left: 49.79%;
+    right: 3.54%;
+    top: 25.76%;
+    bottom: 70.56%;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #D5D5D5;
+}
+h4{
+    font-size: 24px;
+}
+h5{
+    position: static;
+    left: 16.89%;
+    right: 16.89%;
+    top: 14.29%;
+    bottom: 14.29%;
+    padding: 6px 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    background: rgba(255, 255, 255, 0.08);
+    text-transform: uppercase;
+    color: #FFB742;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    position: absolute;
+    width: 148px;
+    height: 42px;
+    left: 707px;
+
+}
+#ah{
+    position: absolute;
+    font-style: normal;
+    font-size: 46px;
+    right:35.38%;;
+
+color: #FFFFFF;
+}
+.small{
+    position: absolute;
+    width: 416px;
+    height: 120px;
+    top: 786px;
+    background: rgba(56, 62, 69, 0.44);
+    border-radius: 10px;
+}
+.imgi{
+    float: left;
+    margin:28px auto 28px 10px ;
+
+}
+.imgc{
+    float: right;
+    margin:50px auto 50px auto ;
+}
+#f{
+    float: right;
+    left: 112px;
+}
+#s{
+    left: 751px;;
+}
+#e{
+    left: 1394px;
+}
+.about{
+    position: absolute;
+    width: 1342px;
+    height: 596.07px;
+    left: 47px;
+    top: 1042px;
+    
+}
+.abouti{
+    float: left;
+    position: absolute;
+    width: 620px;
+    height: 596.07px;
+    left: 47px;
+}
